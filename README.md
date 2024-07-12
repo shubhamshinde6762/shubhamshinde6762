@@ -1,5 +1,5 @@
 ﻿<h1 align="center">Hi 👋, I'm Shubham Shinde</h1>
-<h3 align="center">🔥 Igniting innovation through MERN & ML-driven web apps | Accomplished Competitive Coder (CodeChef 3⭐, 1729 | LeetCode, 1648)</h3>
+<h3 align="center">🔥 Igniting innovation through MERN & ML-driven web apps | Accomplished Competitive Coder (CodeChef 3⭐, 1779 | Knight @ LeetCode, 2025)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamshinde6762&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamshinde6762" /> </p>
 
